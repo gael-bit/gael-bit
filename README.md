@@ -1,5 +1,6 @@
-### Hi there 👋
 
+Bonjour! Je m'appelle Gaël ! 👋
+![Bannière_dev_web](https://user-images.githubusercontent.com/40693842/109502873-d958ea00-7a99-11eb-80ea-c2a569b4e144.jpg)
 <!--
 **gael-bit/gael-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
